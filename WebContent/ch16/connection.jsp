@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Database SQL</title>
+<title>Database SQL 첫실습 DB연결하기</title>
 </head>
 <body>
 	<%

@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Employees DB에 연결하여 SQL SELECT문 실행하기</title>
 </head>
 <body>
 	<%
